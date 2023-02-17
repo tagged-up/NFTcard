@@ -78,3 +78,24 @@ p {
     color: hsl(215, 51%, 70%);
     font-size: 18px;
 }
+
+.price {
+  padding-left: 20px;
+}
+
+.days {
+  padding-left: 110px;
+  font-weight: 300;
+    color: hsl(215, 51%, 70%);
+    font-size: 14px;
+}
+
+
+hr {
+    width: 86%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-color: hsl(215, 51%, 70%);
+   } 
